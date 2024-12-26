@@ -1,0 +1,21 @@
+
+{
+    "_version": "1.58.0",
+    "sap.app": {
+      "id": "ui5.quickstart",
+      "applicationVersion": {
+        "version": "1.0.0"
+      },
+      "title": "{{Quickstart Application}}",
+      "type": "application"
+    },
+    "sap.ui": {
+        "technology": "UI5",
+        "deviceTypes": {
+            "desktop": true,
+            "tablet": true,
+            "phone": true
+        }
+    }
+}
+  
